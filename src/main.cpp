@@ -36,3 +36,7 @@ int getTriangleType(int a, int b, int c) {
     }
     return -3;
 }
+
+int what(int a, int b){
+    return a * b;
+}
